@@ -1,0 +1,501 @@
+Car_Number,Type_of_report,Report_Location
+"EC,905571",Camera,Ajmal Khan Road 
+"SA,177322",Camera,Najaf Khan Road 
+"VG,229539",Camera,Akbar Road 
+"SL,423230",Manual_Report,Najaf Khan Road 
+"ST,642210",Camera,Akbar Road 
+"ID,154233",Manual_Report,Dr APJ Abdul Kalam Road 
+"MA,307873",Manual_Report,Ajmal Khan Road 
+"AS,974818",Manual_Report,Jai Singh Marg 
+"ZW,933252",Manual_Report,Connaught Lane 
+"CM,403107",Camera,Akbar Road 
+"GS,724019",Manual_Report,Connaught Lane 
+"JO,376884",Camera,Akbar Road 
+"VG,201260",Manual_Report,Netaji Subhash Marg 
+"DJ,597493",Camera,Najaf Khan Road 
+"ST,642210",Manual_Report,Dr APJ Abdul Kalam Road 
+"TV,634065",Manual_Report,Akbar Road 
+"FK,837823",Camera,Ajmal Khan Road 
+"GF,473965",Manual_Report,Ajmal Khan Road 
+"SB,763210",Camera,Jai Singh Marg 
+"KZ,616300",Camera,Connaught Lane 
+"ID,465966",Camera,Akbar Road 
+"GE,981637",Camera,Dr APJ Abdul Kalam Road 
+"HR,936158",Camera,Dr APJ Abdul Kalam Road 
+"LK,415492",Manual_Report,Ajmal Khan Road 
+"CF,862743",Camera,Dr APJ Abdul Kalam Road 
+"MA,929957",Camera,Dr APJ Abdul Kalam Road 
+"SJ,245127",Camera,Najaf Khan Road 
+"GM,579071",Camera,Jai Singh Marg 
+"KZ,616300",Manual_Report,Akbar Road 
+"NC,881625",Camera,Dr APJ Abdul Kalam Road 
+"HM,825734",Camera,Jai Singh Marg 
+"SN,797522",Camera,Jai Singh Marg 
+"BW,434358",Manual_Report,Ajmal Khan Road 
+"MQ,937797",Camera,Connaught Lane 
+"CU,531149",Manual_Report,Akbar Road 
+"SV,705666",Camera,Connaught Lane 
+"BG,527788",Manual_Report,Najaf Khan Road 
+"GS,724019",Manual_Report,Dr APJ Abdul Kalam Road 
+"FJ,906817",Camera,Ajmal Khan Road 
+"GH,836909",Camera,Connaught Lane 
+"MA,307873",Manual_Report,Jai Singh Marg 
+"GI,197831",Manual_Report,Netaji Subhash Marg 
+"BY,776147",Manual_Report,Najaf Khan Road 
+"NP,551373",Manual_Report,Najaf Khan Road 
+"LB,884650",Camera,Ajmal Khan Road 
+"MM,674811",Manual_Report,Connaught Lane 
+"ML,193356",Manual_Report,Jai Singh Marg 
+"TL,972584",Camera,Jai Singh Marg 
+"VI,191752",Camera,Ajmal Khan Road 
+"MM,146501",Camera,Ajmal Khan Road 
+"SO,423151",Manual_Report,Ajmal Khan Road 
+"FJ,723821",Camera,Ajmal Khan Road 
+"AW,549996",Camera,Netaji Subhash Marg 
+"MP,446334",Manual_Report,Netaji Subhash Marg 
+"NA,793561",Manual_Report,Connaught Lane 
+"BI,292773",Camera,Akbar Road 
+"MS,377612",Camera,Connaught Lane 
+"GY,238480",Manual_Report,Jai Singh Marg 
+"LA,682314",Manual_Report,Jai Singh Marg 
+"DJ,597493",Camera,Najaf Khan Road 
+"NZ,204524",Manual_Report,Dr APJ Abdul Kalam Road 
+"VE,190965",Camera,Dr APJ Abdul Kalam Road 
+"UZ,199272",Camera,Ajmal Khan Road 
+"CD,941401",Manual_Report,Akbar Road 
+"TD,959735",Manual_Report,Akbar Road 
+"ES,620711",Camera,Ajmal Khan Road 
+"GL,788860",Manual_Report,Connaught Lane 
+"CI,315454",Camera,Dr APJ Abdul Kalam Road 
+"AZ,959481",Camera,Netaji Subhash Marg 
+"PN,138611",Camera,Najaf Khan Road 
+"SA,635389",Camera,Najaf Khan Road 
+"ZA,340248",Manual_Report,Akbar Road 
+"GN,153359",Camera,Dr APJ Abdul Kalam Road 
+"AN,337354",Manual_Report,Ajmal Khan Road 
+"NG,902657",Camera,Ajmal Khan Road 
+"IS,278161",Camera,Ajmal Khan Road 
+"CU,618702",Camera,Akbar Road 
+"SK,241967",Manual_Report,Dr APJ Abdul Kalam Road 
+"DK,476453",Manual_Report,Ajmal Khan Road 
+"PN,261369",Manual_Report,Najaf Khan Road 
+"IO,632564",Manual_Report,Najaf Khan Road 
+"PY,139679",Manual_Report,Jai Singh Marg 
+"JO,649959",Camera,Ajmal Khan Road 
+"AO,938117",Camera,Ajmal Khan Road 
+"VN,255987",Camera,Najaf Khan Road 
+"PW,671466",Camera,Dr APJ Abdul Kalam Road 
+"IQ,667253",Camera,Akbar Road 
+"SZ,129136",Camera,Jai Singh Marg 
+"TK,664393",Manual_Report,Ajmal Khan Road 
+"SJ,654453",Camera,Connaught Lane 
+"TC,816668",Manual_Report,Jai Singh Marg 
+"GW,478937",Manual_Report,Najaf Khan Road 
+"SN,303364",Manual_Report,Dr APJ Abdul Kalam Road 
+"BG,730815",Camera,Ajmal Khan Road 
+"AW,837434",Manual_Report,Connaught Lane 
+"BG,326064",Manual_Report,Akbar Road 
+"TN,781970",Camera,Netaji Subhash Marg 
+"NC,370762",Manual_Report,Netaji Subhash Marg 
+"LT,425835",Manual_Report,Ajmal Khan Road 
+"KE,776416",Camera,Connaught Lane 
+"JP,134704",Manual_Report,Najaf Khan Road 
+"ML,517043",Manual_Report,Dr APJ Abdul Kalam Road 
+"GA,847497",Camera,Ajmal Khan Road 
+"NE,594842",Camera,Ajmal Khan Road 
+"BS,447988",Camera,Dr APJ Abdul Kalam Road 
+"BI,673331",Camera,Akbar Road 
+"GA,988446",Camera,Ajmal Khan Road 
+"DK,149607",Camera,Dr APJ Abdul Kalam Road 
+"DE,869165",Manual_Report,Ajmal Khan Road 
+"MY,188383",Camera,Akbar Road 
+"GN,153359",Manual_Report,Connaught Lane 
+"JE,197829",Manual_Report,Dr APJ Abdul Kalam Road 
+"SJ,644021",Manual_Report,Akbar Road 
+"BS,445854",Manual_Report,Netaji Subhash Marg 
+"MY,488076",Manual_Report,Akbar Road 
+"UG,330691",Camera,Connaught Lane 
+"BZ,132173",Camera,Dr APJ Abdul Kalam Road 
+"AW,813234",Manual_Report,Ajmal Khan Road 
+"NC,881625",Manual_Report,Akbar Road 
+"AQ,704895",Camera,Akbar Road 
+"UZ,706245",Manual_Report,Jai Singh Marg 
+"ML,920537",Manual_Report,Najaf Khan Road 
+"TN,859252",Camera,Connaught Lane 
+"BM,522743",Camera,Dr APJ Abdul Kalam Road 
+"JP,527379",Manual_Report,Ajmal Khan Road 
+"VN,143238",Manual_Report,Najaf Khan Road 
+"BO,657875",Manual_Report,Dr APJ Abdul Kalam Road 
+"MD,139727",Camera,Ajmal Khan Road 
+"SO,423151",Camera,Jai Singh Marg 
+"GN,426628",Camera,Jai Singh Marg 
+"UG,164984",Camera,Netaji Subhash Marg 
+"NA,669957",Manual_Report,Akbar Road 
+"GL,490513",Manual_Report,Dr APJ Abdul Kalam Road 
+"BF,177581",Camera,Ajmal Khan Road 
+"PK,590317",Camera,Jai Singh Marg 
+"TT,721527",Manual_Report,Ajmal Khan Road 
+"AS,644266",Manual_Report,Netaji Subhash Marg 
+"TL,823733",Camera,Najaf Khan Road 
+"JP,925237",Manual_Report,Ajmal Khan Road 
+"PL,675680",Manual_Report,Akbar Road 
+"SR,911377",Camera,Najaf Khan Road 
+"LI,206650",Camera,Akbar Road 
+"SG,488357",Camera,Ajmal Khan Road 
+"JO,376884",Camera,Najaf Khan Road 
+"TO,613960",Manual_Report,Najaf Khan Road 
+"SJ,654453",Camera,Dr APJ Abdul Kalam Road 
+"PY,139679",Camera,Dr APJ Abdul Kalam Road 
+"JO,917103",Manual_Report,Connaught Lane 
+"MP,617001",Camera,Connaught Lane 
+"TF,126458",Camera,Netaji Subhash Marg 
+"MR,243238",Manual_Report,Dr APJ Abdul Kalam Road 
+"TL,859238",Camera,Dr APJ Abdul Kalam Road 
+"ZA,406083",Camera,Jai Singh Marg 
+"SM,221433",Camera,Netaji Subhash Marg 
+"LK,782416",Camera,Ajmal Khan Road 
+"LV,641434",Camera,Netaji Subhash Marg 
+"FM,503077",Manual_Report,Najaf Khan Road 
+"SV,435968",Camera,Netaji Subhash Marg 
+"AU,718909",Camera,Ajmal Khan Road 
+"SY,800054",Camera,Dr APJ Abdul Kalam Road 
+"ST,572208",Camera,Ajmal Khan Road 
+"DZ,481199",Camera,Ajmal Khan Road 
+"VI,931068",Manual_Report,Najaf Khan Road 
+"IN,131606",Manual_Report,Najaf Khan Road 
+"TT,846129",Manual_Report,Netaji Subhash Marg 
+"TH,784945",Camera,Akbar Road 
+"BT,332001",Camera,Dr APJ Abdul Kalam Road 
+"ZW,916245",Camera,Ajmal Khan Road 
+"SK,359232",Camera,Jai Singh Marg 
+"BT,355128",Manual_Report,Dr APJ Abdul Kalam Road 
+"CA,662238",Manual_Report,Najaf Khan Road 
+"BT,332001",Manual_Report,Najaf Khan Road 
+"VI,240736",Camera,Akbar Road 
+"AM,548881",Manual_Report,Ajmal Khan Road 
+"GW,198809",Manual_Report,Dr APJ Abdul Kalam Road 
+"NZ,370569",Manual_Report,Dr APJ Abdul Kalam Road 
+"MY,188383",Manual_Report,Dr APJ Abdul Kalam Road 
+"CL,960095",Camera,Connaught Lane 
+"DE,869165",Camera,Najaf Khan Road 
+"AM,180110",Camera,Najaf Khan Road 
+"NC,547636",Manual_Report,Netaji Subhash Marg 
+"SR,911377",Manual_Report,Connaught Lane 
+"SH,434353",Camera,Ajmal Khan Road 
+"BT,237159",Manual_Report,Netaji Subhash Marg 
+"CK,875160",Camera,Jai Singh Marg 
+"AW,549996",Manual_Report,Ajmal Khan Road 
+"CA,456448",Camera,Netaji Subhash Marg 
+"BD,876143",Manual_Report,Dr APJ Abdul Kalam Road 
+"CF,572574",Manual_Report,Dr APJ Abdul Kalam Road 
+"BR,385878",Camera,Ajmal Khan Road 
+"TJ,442502",Manual_Report,Ajmal Khan Road 
+"PR,342324",Manual_Report,Akbar Road 
+"HR,713499",Manual_Report,Akbar Road 
+"GQ,684113",Manual_Report,Jai Singh Marg 
+"DK,712412",Camera,Najaf Khan Road 
+"MW,722903",Manual_Report,Najaf Khan Road 
+"PY,797167",Manual_Report,Netaji Subhash Marg 
+"NR,989360",Camera,Ajmal Khan Road 
+"UG,330691",Camera,Najaf Khan Road 
+"MD,226009",Camera,Ajmal Khan Road 
+"LC,658569",Manual_Report,Dr APJ Abdul Kalam Road 
+"JM,452056",Manual_Report,Netaji Subhash Marg 
+"LU,799054",Manual_Report,Ajmal Khan Road 
+"SL,423230",Camera,Connaught Lane 
+"CK,662249",Manual_Report,Ajmal Khan Road 
+"GF,473965",Manual_Report,Akbar Road 
+"AI,747655",Camera,Najaf Khan Road 
+"TT,707401",Camera,Akbar Road 
+"TD,143811",Manual_Report,Netaji Subhash Marg 
+"GG,898647",Camera,Netaji Subhash Marg 
+"ER,774284",Camera,Akbar Road 
+"FJ,501627",Manual_Report,Connaught Lane 
+"GM,579071",Manual_Report,Ajmal Khan Road 
+"TH,638140",Manual_Report,Akbar Road 
+"GH,435213",Manual_Report,Connaught Lane 
+"UY,472693",Camera,Dr APJ Abdul Kalam Road 
+"NE,189707",Camera,Akbar Road 
+"BS,445854",Camera,Dr APJ Abdul Kalam Road 
+"TT,394988",Manual_Report,Akbar Road 
+"KY,294060",Manual_Report,Dr APJ Abdul Kalam Road 
+"TG,487359",Manual_Report,Ajmal Khan Road 
+"IM,208376",Manual_Report,Ajmal Khan Road 
+"JM,662765",Camera,Najaf Khan Road 
+"TV,701749",Manual_Report,Jai Singh Marg 
+"CH,234978",Camera,Netaji Subhash Marg 
+"NZ,663373",Camera,Najaf Khan Road 
+"PN,261369",Camera,Akbar Road 
+"HU,576208",Manual_Report,Ajmal Khan Road 
+"CU,907326",Manual_Report,Ajmal Khan Road 
+"SH,994011",Camera,Netaji Subhash Marg 
+"PH,938862",Manual_Report,Najaf Khan Road 
+"BG,332577",Manual_Report,Akbar Road 
+"RE,298467",Manual_Report,Akbar Road 
+"IN,781410",Manual_Report,Ajmal Khan Road 
+"KG,185051",Manual_Report,Akbar Road 
+"MQ,628789",Manual_Report,Ajmal Khan Road 
+"PF,885770",Camera,Najaf Khan Road 
+"HN,919225",Manual_Report,Najaf Khan Road 
+"UG,543210",Camera,Connaught Lane 
+"VG,201260",Manual_Report,Najaf Khan Road 
+"BM,736048",Manual_Report,Jai Singh Marg 
+"GY,380902",Camera,Ajmal Khan Road 
+"CZ,141680",Manual_Report,Dr APJ Abdul Kalam Road 
+"DE,869165",Camera,Akbar Road 
+"CG,470486",Manual_Report,Jai Singh Marg 
+"LK,234940",Camera,Jai Singh Marg 
+"KE,776416",Camera,Ajmal Khan Road 
+"TK,212613",Camera,Ajmal Khan Road 
+"SB,129335",Camera,Connaught Lane 
+"GG,604655",Camera,Najaf Khan Road 
+"CA,456448",Manual_Report,Netaji Subhash Marg 
+"MV,894676",Camera,Ajmal Khan Road 
+"FM,665494",Camera,Dr APJ Abdul Kalam Road 
+"MD,705364",Camera,Najaf Khan Road 
+"GD,623133",Manual_Report,Ajmal Khan Road 
+"PK,547890",Manual_Report,Ajmal Khan Road 
+"MG,702219",Manual_Report,Akbar Road 
+"LV,623019",Manual_Report,Connaught Lane 
+"JO,929537",Manual_Report,Connaught Lane 
+"CA,101839",Camera,Najaf Khan Road 
+"LC,761792",Manual_Report,Dr APJ Abdul Kalam Road 
+"TK,664393",Camera,Connaught Lane 
+"LK,415492",Camera,Ajmal Khan Road 
+"HM,825734",Manual_Report,Ajmal Khan Road 
+"FO,614599",Camera,Najaf Khan Road 
+"TH,784945",Camera,Dr APJ Abdul Kalam Road 
+"PK,455613",Camera,Connaught Lane 
+"GT,968816",Manual_Report,Najaf Khan Road 
+"MC,122263",Manual_Report,Akbar Road 
+"BV,912746",Manual_Report,Jai Singh Marg 
+"CN,377668",Camera,Netaji Subhash Marg 
+"GF,794906",Manual_Report,Netaji Subhash Marg 
+"HU,647565",Camera,Connaught Lane 
+"CS,352078",Manual_Report,Connaught Lane 
+"DZ,920676",Camera,Netaji Subhash Marg 
+"RE,476064",Camera,Connaught Lane 
+"NU,157281",Manual_Report,Netaji Subhash Marg 
+"GU,122115",Manual_Report,Connaught Lane 
+"TG,487359",Manual_Report,Ajmal Khan Road 
+"LU,917464",Manual_Report,Najaf Khan Road 
+"BG,940184",Camera,Connaught Lane 
+"GU,436505",Camera,Dr APJ Abdul Kalam Road 
+"ER,528929",Manual_Report,Ajmal Khan Road 
+"BN,152174",Manual_Report,Akbar Road 
+"PK,345953",Manual_Report,Netaji Subhash Marg 
+"TZ,798672",Camera,Netaji Subhash Marg 
+"GR,238727",Camera,Jai Singh Marg 
+"PW,437193",Manual_Report,Jai Singh Marg 
+"IO,632564",Camera,Connaught Lane 
+"QA,253144",Manual_Report,Ajmal Khan Road 
+"KN,996101",Camera,Akbar Road 
+"NC,881625",Camera,Ajmal Khan Road 
+"GE,627598",Manual_Report,Jai Singh Marg 
+"NP,725959",Manual_Report,Dr APJ Abdul Kalam Road 
+"JO,890072",Camera,Najaf Khan Road 
+"BZ,923584",Camera,Connaught Lane 
+"GT,983241",Camera,Dr APJ Abdul Kalam Road 
+"FR,773702",Manual_Report,Ajmal Khan Road 
+"ZA,406083",Camera,Netaji Subhash Marg 
+"MV,894676",Camera,Najaf Khan Road 
+"PK,547890",Camera,Dr APJ Abdul Kalam Road 
+"GP,976102",Camera,Connaught Lane 
+"SH,434353",Camera,Ajmal Khan Road 
+"VN,336080",Camera,Netaji Subhash Marg 
+"AX,460370",Manual_Report,Najaf Khan Road 
+"EE,467000",Manual_Report,Ajmal Khan Road 
+"LU,917464",Manual_Report,Najaf Khan Road 
+"AF,290199",Camera,Connaught Lane 
+"AT,827688",Manual_Report,Najaf Khan Road 
+"MK,635499",Camera,Jai Singh Marg 
+"IS,498175",Camera,Netaji Subhash Marg 
+"PW,437193",Manual_Report,Dr APJ Abdul Kalam Road 
+"UZ,706245",Manual_Report,Ajmal Khan Road 
+"IN,726246",Camera,Jai Singh Marg 
+"MA,307873",Camera,Najaf Khan Road 
+"KE,776416",Camera,Netaji Subhash Marg 
+"SK,334101",Camera,Dr APJ Abdul Kalam Road 
+"TG,904796",Manual_Report,Connaught Lane 
+"NE,380847",Camera,Ajmal Khan Road 
+"NP,643366",Manual_Report,Ajmal Khan Road 
+"BA,310598",Manual_Report,Jai Singh Marg 
+"NR,871230",Camera,Netaji Subhash Marg 
+"MV,277562",Manual_Report,Netaji Subhash Marg 
+"MK,816757",Manual_Report,Najaf Khan Road 
+"UG,679380",Camera,Ajmal Khan Road 
+"BG,512818",Manual_Report,Dr APJ Abdul Kalam Road 
+"TT,721527",Manual_Report,Netaji Subhash Marg 
+"AI,526855",Manual_Report,Netaji Subhash Marg 
+"MQ,296048",Manual_Report,Netaji Subhash Marg 
+"NP,143615",Camera,Ajmal Khan Road 
+"NI,857457",Camera,Dr APJ Abdul Kalam Road 
+"LR,446208",Camera,Najaf Khan Road 
+"OM,565200",Manual_Report,Akbar Road 
+"RE,417876",Camera,Ajmal Khan Road 
+"DM,449700",Camera,Connaught Lane 
+"TL,823733",Manual_Report,Netaji Subhash Marg 
+"GH,878421",Camera,Netaji Subhash Marg 
+"BM,522743",Camera,Akbar Road 
+"MK,635499",Camera,Akbar Road 
+"GU,122115",Manual_Report,Akbar Road 
+"PF,900640",Camera,Jai Singh Marg 
+"WF,665816",Manual_Report,Ajmal Khan Road 
+"CA,662238",Manual_Report,Connaught Lane 
+"PF,811374",Camera,Netaji Subhash Marg 
+"UM,885273",Camera,Najaf Khan Road 
+"KN,257627",Manual_Report,Jai Singh Marg 
+"BR,149948",Camera,Ajmal Khan Road 
+"FJ,723821",Manual_Report,Dr APJ Abdul Kalam Road 
+"KR,293871",Manual_Report,Ajmal Khan Road 
+"NR,209850",Camera,Najaf Khan Road 
+"TD,100500",Camera,Ajmal Khan Road 
+"VI,240736",Camera,Ajmal Khan Road 
+"ST,642210",Camera,Ajmal Khan Road 
+"ST,572208",Manual_Report,Najaf Khan Road 
+"SG,260616",Camera,Netaji Subhash Marg 
+"GQ,684113",Camera,Jai Singh Marg 
+"MM,674811",Manual_Report,Jai Singh Marg 
+"TF,962349",Manual_Report,Dr APJ Abdul Kalam Road 
+"TH,784945",Manual_Report,Akbar Road 
+"HT,857381",Camera,Ajmal Khan Road 
+"SB,101824",Camera,Akbar Road 
+"MZ,871383",Manual_Report,Ajmal Khan Road 
+"LV,112808",Camera,Akbar Road 
+"NC,615185",Manual_Report,Ajmal Khan Road 
+"GE,987671",Camera,Jai Singh Marg 
+"AM,180110",Camera,Najaf Khan Road 
+"NA,291389",Camera,Jai Singh Marg 
+"ST,662851",Camera,Dr APJ Abdul Kalam Road 
+"TT,132344",Camera,Jai Singh Marg 
+"BS,584228",Manual_Report,Dr APJ Abdul Kalam Road 
+"DZ,163505",Manual_Report,Ajmal Khan Road 
+"NZ,370569",Camera,Ajmal Khan Road 
+"JO,917103",Manual_Report,Netaji Subhash Marg 
+"JP,599096",Manual_Report,Netaji Subhash Marg 
+"CS,352078",Camera,Jai Singh Marg 
+"KH,710154",Manual_Report,Ajmal Khan Road 
+"HN,577962",Manual_Report,Najaf Khan Road 
+"PG,327434",Camera,Dr APJ Abdul Kalam Road 
+"GU,145196",Manual_Report,Dr APJ Abdul Kalam Road 
+"BI,811419",Manual_Report,Netaji Subhash Marg 
+"LB,595661",Manual_Report,Ajmal Khan Road 
+"UG,679380",Manual_Report,Connaught Lane 
+"MK,635499",Manual_Report,Akbar Road 
+"AZ,959481",Camera,Connaught Lane 
+"AZ,520141",Manual_Report,Akbar Road 
+"SC,465770",Manual_Report,Ajmal Khan Road 
+"HR,936158",Camera,Najaf Khan Road 
+"MM,116945",Camera,Akbar Road 
+"EC,905571",Camera,Ajmal Khan Road 
+"GN,426628",Manual_Report,Netaji Subhash Marg 
+"GB,618085",Manual_Report,Akbar Road 
+"NP,278231",Camera,Akbar Road 
+"ZM,294654",Camera,Najaf Khan Road 
+"TF,774874",Camera,Jai Singh Marg 
+"PN,723395",Manual_Report,Connaught Lane 
+"TV,720982",Camera,Ajmal Khan Road 
+"DE,869165",Manual_Report,Najaf Khan Road 
+"KY,595119",Manual_Report,Netaji Subhash Marg 
+"FJ,906817",Manual_Report,Jai Singh Marg 
+"AF,643846",Manual_Report,Najaf Khan Road 
+"BH,915225",Camera,Najaf Khan Road 
+"GD,472980",Manual_Report,Netaji Subhash Marg 
+"MY,973521",Camera,Ajmal Khan Road 
+"HU,576208",Manual_Report,Connaught Lane 
+"TH,568923",Camera,Connaught Lane 
+"BA,618338",Camera,Netaji Subhash Marg 
+"IO,632564",Manual_Report,Najaf Khan Road 
+"RW,437233",Camera,Akbar Road 
+"GR,658622",Camera,Akbar Road 
+"JO,890072",Camera,Ajmal Khan Road 
+"RW,437233",Camera,Ajmal Khan Road 
+"HT,969052",Manual_Report,Najaf Khan Road 
+"BG,830346",Camera,Najaf Khan Road 
+"HT,315341",Manual_Report,Dr APJ Abdul Kalam Road 
+"ER,528929",Manual_Report,Connaught Lane 
+"RE,777240",Camera,Ajmal Khan Road 
+"NP,934335",Camera,Connaught Lane 
+"TG,908860",Manual_Report,Ajmal Khan Road 
+"PA,769485",Manual_Report,Ajmal Khan Road 
+"SM,951579",Manual_Report,Dr APJ Abdul Kalam Road 
+"CD,318581",Camera,Jai Singh Marg 
+"FR,393664",Camera,Dr APJ Abdul Kalam Road 
+"BH,508405",Manual_Report,Akbar Road 
+"NR,871230",Manual_Report,Akbar Road 
+"FK,310416",Manual_Report,Netaji Subhash Marg 
+"KW,377943",Manual_Report,Najaf Khan Road 
+"MK,483372",Manual_Report,Ajmal Khan Road 
+"GG,407371",Camera,Dr APJ Abdul Kalam Road 
+"NP,904473",Manual_Report,Dr APJ Abdul Kalam Road 
+"CS,758835",Manual_Report,Netaji Subhash Marg 
+"MZ,871383",Camera,Akbar Road 
+"UA,621967",Camera,Najaf Khan Road 
+"BM,605160",Manual_Report,Netaji Subhash Marg 
+"PK,547890",Camera,Ajmal Khan Road 
+"IS,278161",Camera,Jai Singh Marg 
+"GR,238727",Manual_Report,Jai Singh Marg 
+"FK,802667",Camera,Ajmal Khan Road 
+"TG,908860",Camera,Najaf Khan Road 
+"TK,664393",Camera,Netaji Subhash Marg 
+"AF,557068",Camera,Ajmal Khan Road 
+"GH,625919",Camera,Akbar Road 
+"SZ,624792",Camera,Najaf Khan Road 
+"CK,875160",Manual_Report,Ajmal Khan Road 
+"SK,359232",Camera,Dr APJ Abdul Kalam Road 
+"CD,941401",Manual_Report,Akbar Road 
+"EH,800213",Camera,Ajmal Khan Road 
+"MT,402124",Manual_Report,Ajmal Khan Road 
+"NR,113552",Manual_Report,Netaji Subhash Marg 
+"AQ,704895",Manual_Report,Connaught Lane 
+"ER,936810",Manual_Report,Dr APJ Abdul Kalam Road 
+"MY,700803",Camera,Netaji Subhash Marg 
+"AN,511023",Manual_Report,Connaught Lane 
+"HN,749274",Manual_Report,Dr APJ Abdul Kalam Road 
+"NP,934335",Camera,Najaf Khan Road 
+"SB,826577",Manual_Report,Netaji Subhash Marg 
+"JO,649959",Manual_Report,Netaji Subhash Marg 
+"LA,794191",Camera,Ajmal Khan Road 
+"FR,773702",Manual_Report,Dr APJ Abdul Kalam Road 
+"NL,932968",Camera,Netaji Subhash Marg 
+"HT,857381",Camera,Jai Singh Marg 
+"UZ,199272",Manual_Report,Najaf Khan Road 
+"LR,212712",Manual_Report,Connaught Lane 
+"BF,440480",Manual_Report,Connaught Lane 
+"VI,931068",Manual_Report,Dr APJ Abdul Kalam Road 
+"CF,979581",Camera,Netaji Subhash Marg 
+"SO,444320",Manual_Report,Connaught Lane 
+"BJ,461569",Camera,Najaf Khan Road 
+"TH,638140",Camera,Dr APJ Abdul Kalam Road 
+"FJ,906817",Manual_Report,Netaji Subhash Marg 
+"GP,709974",Manual_Report,Connaught Lane 
+"MK,247903",Manual_Report,Netaji Subhash Marg 
+"SD,100569",Manual_Report,Ajmal Khan Road 
+"LA,946001",Camera,Jai Singh Marg 
+"DZ,997952",Manual_Report,Ajmal Khan Road 
+"BG,332577",Camera,Connaught Lane 
+"SI,100001",Manual_Report,Najaf Khan Road 
+"CM,366608",Manual_Report,Najaf Khan Road 
+"TT,132344",Camera,Dr APJ Abdul Kalam Road 
+"TH,784945",Manual_Report,Akbar Road 
+"CM,403107",Camera,Dr APJ Abdul Kalam Road 
+"TD,501637",Manual_Report,Ajmal Khan Road 
+"SV,267342",Camera,Jai Singh Marg 
+"ID,604143",Camera,Ajmal Khan Road 
+"DZ,670963",Manual_Report,Ajmal Khan Road 
+"KZ,922513",Camera,Jai Singh Marg 
+"RO,828825",Manual_Report,Dr APJ Abdul Kalam Road 
+"TJ,442502",Manual_Report,Netaji Subhash Marg 
+"ES,620711",Camera,Ajmal Khan Road 
+"BE,472431",Camera,Connaught Lane 
+"LA,946001",Camera,Dr APJ Abdul Kalam Road 
+"UG,330691",Manual_Report,Jai Singh Marg 
+"DO,732448",Manual_Report,Akbar Road 
+"GG,223917",Camera,Jai Singh Marg 
+"AW,112970",Camera,Dr APJ Abdul Kalam Road 
+"MY,709824",Camera,Najaf Khan Road 
+"GY,587681",Manual_Report,Netaji Subhash Marg 
+"NE,310636",Manual_Report,Connaught Lane 
+"GG,347308",Manual_Report,Connaught Lane 
+"GT,585831",Camera,Connaught Lane 
+"HN,768831",Manual_Report,Jai Singh Marg 
